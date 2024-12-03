@@ -1,2 +1,2 @@
 # smurfic-website
-smurfsserio developed web
+Smurfsserior developed web
